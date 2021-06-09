@@ -2,4 +2,4 @@
 A new line of code
 Yet another line of code
 Change something ...
-Add more and conflicts solvign
+Add more and conflicts solving
